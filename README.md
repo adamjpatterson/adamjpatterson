@@ -52,10 +52,6 @@ The [IMRaD](https://en.wikipedia.org/wiki/IMRAD)-like Python project templates f
 
 In the data science domain projects are sometimes shared as an informal assemblage of scripts. This repository proposes two IMRaD-like layouts that can be used for organizing a data science project. The "Informal IMRaD-like Layout" is a Python project organized into materials, methods, and results directories. The "Formal IMRaD-like Flat Layout" is a conventional installable Python flat-layout project that can be built and distributed as a package and published to PyPI.
 
-### [Nexus](https://github.com/faranalytics/nexus) <sup><sup>\</TypeScript\></sup></sup> <sup><sup>\</Node.js\></sup></sup>
-
-Nexus is a modular `VoIP` ➞ `STT` ➞ `AI Agent` ➞ `TTS` ➞ `VoIP` implementation that uses conversational AI for handing voice calls.  It is a basic demonstrational implementation.  It works quite well as it is - and it is also a work in progress.
-
 ### [Neural-pleX](https://github.com/faranalytics/neuralplex/) <sup><sup>\</Python\></sup></sup>
 
 <img src="Neural-pleX_float.png" style="width:20%" align="right">Neural-pleX is an object oriented neural network implementation. The Neural-pleX API consists of Network, Layer, and Neuron constructors. The networks can be easily visualized using a visualization library.
